@@ -4,7 +4,7 @@
 
 Predominantly I work on smartphone and web applications. I have been developing professionally for more than two years. I always work with passion to develop innovative programs that expedite the efficiency and effectiveness of organizational success.
 
-Skills: Java / Kotlin / Python / Odoo-13 / Odoo-14 / Dart (Flutter) / PHP
+Skills: Java / Kotlin / Python / Odoo-13 / Odoo-15 / Dart (Flutter) / PHP
 
 - 🔭 I’m currently working on Odoo 13 APIs & Mobile Application 
 - 🌱 I’m currently learning Odoo 15 
