@@ -1,7 +1,6 @@
 ### Hi there 👋, I am Rafiul Hassan.
 #### A Software Engineer, mainly focused on smartphone apps and modern web technologies.
 ![A Software Engineer, mainly focused on smartphone apps and modern web technologies.](https://img.freepik.com/free-vector/coding-system-banner_87720-2994.jpg?size=626&ext=jpg)
-<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafiulhassan007" alt="rafiulhassan007" /></a> </p>
 Predominantly I work on smartphone and web applications. I have been developing professionally for more than two years. I always work with passion to develop innovative programs that expedite the efficiency and effectiveness of organizational success.
 
 Skills: Java / Kotlin / Python / Odoo-13 / Odoo-15 / Dart (Flutter) / PHP
