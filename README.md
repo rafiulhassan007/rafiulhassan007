@@ -6,10 +6,10 @@ Predominantly I work on smartphone and web applications. I have been developing 
 
 Skills: Java / Kotlin / Python / Odoo-13 / Odoo-15 / Dart (Flutter) / PHP
 
-- 🔭 I’m currently working on Odoo 13 APIs & Mobile Application 
-- 🌱 I’m currently learning Odoo 15 
-- 💬 Ask me about Mobile Applications 
-- 📫 How to reach me: simply send me a Hi! 
+- 🔭 I’m currently working on Odoo 14 APIs & Mobile Application 
+- 🌱 I’m currently learning Odoo 15 and Software Testing 
+- 💬 Ask me about Mobile Applications Odoo based Solution
+- 📫 How to reach me: simply send me a Hi! <a href="mailto:rafiulhassan007@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a> 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rafiulhassan007&show_icons=true&theme=cobalt)
 
