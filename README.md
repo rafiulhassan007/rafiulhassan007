@@ -4,20 +4,20 @@
 
 Predominantly I work on smartphone and web applications. I have been developing professionally for more than two years. I always work with passion to develop innovative programs that expedite the efficiency and effectiveness of organizational success.
 
-Skills: Java / Kotlin / Python / Odoo-13 / Odoo-15 / Dart (Flutter) / PHP
+Skills: Java / Kotlin / Python / Odoo-13 / Odoo-15 / Odoo-16 / Spring Boot
 
-- 🔭 I’m currently working on Odoo 14 APIs & Mobile Application 
-- 🌱 I’m currently learning Odoo 15 and Software Testing 
-- 💬 Ask me about Mobile Applications Odoo based Solution
+- 🔭 I’m currently working on Java Spring Boot Backend & Mobile Application 
+- 🌱 I’m currently learning Store Procedure (Sql Server) and TDD Approach Software Testing
+- 💬 Ask me about Mobile Applications/Python/Java based Solution
 - 📫 How to reach me: simply send me a Hi! <a href="mailto:rafiulhassan007@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a> 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rafiulhassan007&show_icons=true&theme=cobalt)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rafiulhassan007)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rafiulhassan007)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafiulhassan007)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rafiulhassan007)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rafiulhassan007&show_icons=true&theme=cobalt)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rafiulhassan007)  
 
