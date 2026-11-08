@@ -2,7 +2,7 @@
 
 # Md. Rafiul Hassan
 
-**Software Engineer · Java & Spring Boot · Android & Kotlin · Odoo ERP**
+**Software Engineer · Java & Spring Boot · Mobile Apps - Kotlin, Java, Flutter · Odoo ERP**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=620&lines=Java+%26+Spring+Boot+Developer;Android+%26+Kotlin+Developer;Enterprise+Application+Engineer;Exploring+Local+LLMs+%26+RAG)](https://github.com/rafiulhassan007)
 
