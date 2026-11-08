@@ -2,7 +2,7 @@
 
 # Md. Rafiul Hassan
 
-**Software Engineer · Java & Spring Boot · Android & Kotlin · Odoo ERP**
+**Software Engineer · Enterprise Resource Application · SQL & NO-SQL Databases · Mobile Application**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=620&lines=Java+%26+Spring+Boot+Developer;Android+%26+Kotlin+Developer;Enterprise+Application+Engineer;Exploring+Local+LLMs+%26+RAG)](https://github.com/rafiulhassan007)
 
@@ -37,25 +37,41 @@ I build scalable backend systems, enterprise applications and mobile apps. My co
   <img src="https://skillicons.dev/icons?i=git,github,linux,postman,idea,vscode&perline=10" alt="Tools" />
 </p>
 
-| Area | Focus |
-| --- | --- |
-| **Backend** | Java, Spring Boot, Spring Security, REST APIs, JPA/Hibernate, JWT, microservices |
-| **Mobile** | Android SDK, Kotlin, MVVM, Retrofit, Room, Dagger Hilt, Flutter |
-| **Data** | Microsoft SQL Server, PostgreSQL, MySQL, SQLite, stored procedures, query tuning |
-| **ERP** | Odoo 13 / 14 / 15 / 16, custom modules, business process automation |
-| **AI** | Ollama, local LLMs, RAG, embeddings |
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="22%" align="left">Area</th>
+      <th width="78%" align="left">Focus</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td><b>Backend</b></td><td>Java, Spring Boot, Spring Security, REST APIs, JPA/Hibernate, JWT, microservices</td></tr>
+    <tr><td><b>Mobile</b></td><td>Android SDK, Kotlin, MVVM, Retrofit, Room, Dagger Hilt, Flutter</td></tr>
+    <tr><td><b>Data</b></td><td>Microsoft SQL Server, PostgreSQL, MySQL, SQLite, stored procedures, query tuning</td></tr>
+    <tr><td><b>ERP</b></td><td>Odoo 13 / 14 / 15 / 16, custom modules, business process automation</td></tr>
+    <tr><td><b>AI</b></td><td>Ollama, local LLMs, RAG, embeddings</td></tr>
+  </tbody>
+</table>
 
 ---
 
 ## What I Work On
 
-| Focus | What I do |
-| --- | --- |
-| 🏢 **Enterprise Systems** | ERP and University Management Systems: admission, academic and HR solutions |
-| ⚙️ **Backend Engineering** | Secure, scalable REST APIs with Spring Boot, JPA/Hibernate and stored procedures; query optimization on SQL Server and PostgreSQL |
-| 📱 **Mobile Engineering** | Android apps with Kotlin, MVVM, Retrofit, Room and Dagger Hilt; learning Flutter |
-| 🧩 **Odoo ERP** | Custom modules and business process automation across Odoo 13 to 16 |
-| 🤖 **AI Integration** | Local LLMs with Ollama, RAG and embeddings for AI-powered applications |
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="22%" align="left">Focus</th>
+      <th width="78%" align="left">What I do</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>🏢 <b>Enterprise Systems</b></td><td>ERP and University Management Systems: admission, academic and HR solutions</td></tr>
+    <tr><td>⚙️ <b>Backend Engineering</b></td><td>Secure, scalable REST APIs with Spring Boot, JPA/Hibernate and stored procedures; query optimization on SQL Server and PostgreSQL</td></tr>
+    <tr><td>📱 <b>Mobile Engineering</b></td><td>Android apps with Kotlin, MVVM, Retrofit, Room and Dagger Hilt; learning Flutter</td></tr>
+    <tr><td>🧩 <b>Odoo ERP</b></td><td>Custom modules and business process automation across Odoo 13 to 16</td></tr>
+    <tr><td>🤖 <b>AI Integration</b></td><td>Local LLMs with Ollama, RAG and embeddings for AI-powered applications</td></tr>
+  </tbody>
+</table>
 
 > Much of my recent work lives in private repositories, so my public repos only show a small part of it. The stats below include private contributions.
 
