@@ -2,7 +2,7 @@
 
 # Md. Rafiul Hassan
 
-**Software Engineer · Java & Spring Boot · Mobile Apps - Kotlin, Java, Flutter · Odoo ERP**
+**Software Engineer · Java & Spring Boot · Android & Kotlin · Odoo ERP**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=620&lines=Java+%26+Spring+Boot+Developer;Android+%26+Kotlin+Developer;Enterprise+Application+Engineer;Exploring+Local+LLMs+%26+RAG)](https://github.com/rafiulhassan007)
 
@@ -47,14 +47,17 @@ I build scalable backend systems, enterprise applications and mobile apps. My co
 
 ---
 
-## Featured Projects
+## What I Work On
 
-| Project | Description | Stack |
-| --- | --- | --- |
-| [QBEA Android](https://github.com/rafiulhassan007/QBEA-Android-Part) | QR-code based event attendance: create events, approve subscriptions, record attendance and history | Java, Android |
-| [QBEA Server](https://github.com/rafiulhassan007/QBEA-Server-Part-) | Server side of the QBEA attendance system | PHP, Laravel |
-| [AdvancedShopMaintenance](https://github.com/rafiulhassan007/AdvancedShopMaintenance) | Desktop sales management for small shops | Java |
-| [renameApp11](https://github.com/rafiulhassan007/renameApp11) | Rename files on Android 11+ (scoped storage) | Kotlin |
+| Focus | What I do |
+| --- | --- |
+| 🏢 **Enterprise Systems** | ERP and University Management Systems: admission, academic and HR solutions |
+| ⚙️ **Backend Engineering** | Secure, scalable REST APIs with Spring Boot, JPA/Hibernate and stored procedures; query optimization on SQL Server and PostgreSQL |
+| 📱 **Mobile Engineering** | Android apps with Kotlin, MVVM, Retrofit, Room and Dagger Hilt; learning Flutter |
+| 🧩 **Odoo ERP** | Custom modules and business process automation across Odoo 13 to 16 |
+| 🤖 **AI Integration** | Local LLMs with Ollama, RAG and embeddings for AI-powered applications |
+
+> Much of my recent work lives in private repositories, so my public repos only show a small part of it. The stats below include private contributions.
 
 ---
 
@@ -63,12 +66,26 @@ I build scalable backend systems, enterprise applications and mobile apps. My co
 <div align="center">
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/0-profile-details.svg">
+  <img width="49%" alt="Profile details and contributions in last year" src="./profile-summary-card-output/github/0-profile-details.svg">
+</picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg">
   <img width="49%" alt="GitHub stats" src="./profile-summary-card-output/github/3-stats.svg">
 </picture>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/1-repos-per-language.svg">
-  <img width="49%" alt="Top languages" src="./profile-summary-card-output/github/1-repos-per-language.svg">
+  <img width="49%" alt="Top languages by repository" src="./profile-summary-card-output/github/1-repos-per-language.svg">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/2-most-commit-language.svg">
+  <img width="49%" alt="Top languages by commit" src="./profile-summary-card-output/github/2-most-commit-language.svg">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/4-productive-time.svg">
+  <img width="98%" alt="Commits by time of day" src="./profile-summary-card-output/github/4-productive-time.svg">
 </picture>
 
 [![Streak](https://streak-stats.demolab.com?user=rafiulhassan007&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
