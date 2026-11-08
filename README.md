@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rafiul Hassan</h1>
 
-<h3 align="center">Software Engineer | Backend Developer | Android Application Developer</h3>
+<h3 align="center">Software Engineer | Backend Developer | Mobile Application Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Java+%26+Spring+Boot+Developer;Android+%26+Kotlin+Developer;Enterprise+Application+Engineer;Exploring+AI+%26+Modern+Technologies" alt="Typing SVG" />
@@ -136,7 +136,6 @@ Git • GitHub • Docker • Linux • Postman • IntelliJ IDEA • Android St
 
 - ISTQB Certified Software Tester
 - Odoo Functional Certification
-- Odoo Developer Certification
 - Android Application Development – NASSCOM
 
 ---
