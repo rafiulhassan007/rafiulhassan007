@@ -11,14 +11,15 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
     steps:
       - uses: actions/checkout@v4
-      - uses: vn7n24fzkq/github-profile-summary-cards@release/v2
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          # Use a personal access token (classic) with "repo" and "user" scopes
-          # saved as a repository secret named PROFILE_TOKEN, so private
-          # contributions are counted. GITHUB_TOKEN alone only sees public data.
+          # Classic personal access token with "repo" and "user" scopes,
+          # saved as a repository secret named PROFILE_TOKEN.
           GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
           UTC_OFFSET: 6
