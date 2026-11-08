@@ -1,160 +1,101 @@
-<h1 align="center">Hi 👋, I'm Rafiul Hassan</h1>
+<div align="center">
 
-<h3 align="center">Software Engineer | Backend Developer | Mobile Application Developer</h3>
+# Md. Rafiul Hassan
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Java+%26+Spring+Boot+Developer;Android+%26+Kotlin+Developer;Enterprise+Application+Engineer;Exploring+AI+%26+Modern+Technologies" alt="Typing SVG" />
-</p>
+**Software Engineer · Java & Spring Boot · Android & Kotlin · Odoo ERP**
 
-<p align="center">
-  <a href="https://github.com/rafiulhassan007">
-    <img src="https://komarev.com/ghpvc/?username=rafiulhassan007&style=for-the-badge&color=blue" />
-  </a>
-  <a href="https://github.com/rafiulhassan007?tab=followers">
-    <img src="https://img.shields.io/github/followers/rafiulhassan007?style=for-the-badge&color=blue" />
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=620&lines=Java+%26+Spring+Boot+Developer;Android+%26+Kotlin+Developer;Enterprise+Application+Engineer;Exploring+Local+LLMs+%26+RAG)](https://github.com/rafiulhassan007)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-rafiul-hassan-007/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafiulhassan007@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RRafiul)
+![Profile Views](https://komarev.com/ghpvc/?username=rafiulhassan007&style=for-the-badge&color=blue)
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a Software Engineer passionate about building scalable backend systems, enterprise applications, and modern mobile solutions.
+I build scalable backend systems, enterprise applications and mobile apps. My core is **Java, Spring Boot, Android and Kotlin**, with hands-on experience in ERP and University Management Systems, database performance, and maintainable architecture.
 
-My primary expertise is in **Java, Spring Boot, Android, and Kotlin**, with experience developing enterprise-level ERP and University Management Systems.
-
-I enjoy solving complex engineering problems, optimizing database performance, designing maintainable architectures, and exploring AI-powered software solutions.
-
-- 🔭 Currently working on Java Spring Boot Backend & Mobile Applications
-- 🌱 Exploring Flutter, AI Integration, and Modern Software Architecture
-- 💡 Interested in Microservices, Distributed Systems, and Database Optimization
-- 🤖 Exploring Local LLMs, RAG, and AI-powered applications
-- 🧪 Interested in TDD, Clean Code, and Software Quality
-- 📍 Bangladesh 🇧🇩
+- 🔭 Working on Spring Boot backends and mobile applications
+- 🌱 Learning Flutter, AI integration and modern software architecture
+- 🤖 Exploring local LLMs, Ollama, RAG and embeddings
+- 💡 Interested in microservices, distributed systems and query optimization
+- 🧪 Care about clean code, TDD and software quality
+- 📍 Dhaka, Bangladesh 🇧🇩
 
 ---
 
-## 🧰 Technology Stack
-
-### Programming Languages
+## Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,kotlin,python,dart,bash" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,python,dart,bash&perline=10" alt="Languages" /><br>
+  <img src="https://skillicons.dev/icons?i=spring,hibernate,maven,docker,redis,rabbitmq&perline=10" alt="Backend" /><br>
+  <img src="https://skillicons.dev/icons?i=androidstudio,flutter,postgres,mysql,sqlite&perline=10" alt="Mobile and Data" /><br>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,postman,idea,vscode&perline=10" alt="Tools" />
 </p>
 
-### Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring,hibernate,maven,docker,redis,rabbitmq" />
-</p>
-
-Java • Spring Boot • Spring Security • REST APIs • Microservices • JPA/Hibernate • JWT • API Gateway
-
-### Mobile Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,flutter" />
-</p>
-
-Android SDK • Kotlin • Java • MVVM • Retrofit • Room • Dagger Hilt • Kotlin Multiplatform • Flutter
-
-### Database & Storage
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
-</p>
-
-Microsoft SQL Server • PostgreSQL • MySQL • SQLite • Stored Procedures • Query Optimization
-
-### Enterprise & ERP
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,odoo" />
-</p>
-
-Odoo 13 / 15 / 16 • ERP Development • Custom Modules • Business Process Automation
-
-### Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,idea,vscode" />
-</p>
-
-Git • GitHub • Docker • Linux • Postman • IntelliJ IDEA • Android Studio
+| Area | Focus |
+| --- | --- |
+| **Backend** | Java, Spring Boot, Spring Security, REST APIs, JPA/Hibernate, JWT, microservices |
+| **Mobile** | Android SDK, Kotlin, MVVM, Retrofit, Room, Dagger Hilt, Flutter |
+| **Data** | Microsoft SQL Server, PostgreSQL, MySQL, SQLite, stored procedures, query tuning |
+| **ERP** | Odoo 13 / 14 / 15 / 16, custom modules, business process automation |
+| **AI** | Ollama, local LLMs, RAG, embeddings |
 
 ---
 
-## 🚀 Professional Interests
+## Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">⚙️ Backend Engineering</h3>
-<p align="center">Building secure, scalable, and maintainable enterprise backend systems using Java and Spring Boot.</p>
-</td>
-<td width="50%">
-<h3 align="center">📱 Mobile Engineering</h3>
-<p align="center">Developing modern Android applications with Kotlin, MVVM, REST APIs, and clean architecture.</p>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h3 align="center">🏢 Enterprise Solutions</h3>
-<p align="center">Developing ERP, University Management Systems, admission, academic, and HR solutions.</p>
-</td>
-<td width="50%">
-<h3 align="center">🤖 AI Integration</h3>
-<p align="center">Exploring local LLMs, Ollama, RAG, embeddings, and AI-powered applications.</p>
-</td>
-</tr>
-</table>
+| Project | Description | Stack |
+| --- | --- | --- |
+| [QBEA Android](https://github.com/rafiulhassan007/QBEA-Android-Part) | QR-code based event attendance: create events, approve subscriptions, record attendance and history | Java, Android |
+| [QBEA Server](https://github.com/rafiulhassan007/QBEA-Server-Part-) | Server side of the QBEA attendance system | PHP, Laravel |
+| [AdvancedShopMaintenance](https://github.com/rafiulhassan007/AdvancedShopMaintenance) | Desktop sales management for small shops | Java |
+| [renameApp11](https://github.com/rafiulhassan007/renameApp11) | Rename files on Android 11+ (scoped storage) | Kotlin |
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Stats
 
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rafiulhassan007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafiulhassan007&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-<img width="70%" src="https://streak-stats.demolab.com?user=rafiulhassan007&theme=tokyonight&hide_border=true" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg">
+  <img width="49%" alt="GitHub stats" src="./profile-summary-card-output/github/3-stats.svg">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/1-repos-per-language.svg">
+  <img width="49%" alt="Top languages" src="./profile-summary-card-output/github/1-repos-per-language.svg">
+</picture>
+
+[![Streak](https://streak-stats.demolab.com?user=rafiulhassan007&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+## Contribution Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafiulhassan007/rafiulhassan007/output/github-snake-dark.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/rafiulhassan007/rafiulhassan007/output/github-snake.svg">
+</picture>
+
+</div>
 
 ---
 
-## 📈 Contribution Activity
-
-<p align="center">
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=rafiulhassan007&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🏆 Certifications
+## Certifications
 
 - ISTQB Certified Software Tester
 - Odoo Functional Certification
-- Android Application Development – NASSCOM
+- Android Application Development, NASSCOM
 
----
+<div align="center">
 
-## 🤝 Let's Connect
+*Building solutions, one commit at a time.*
 
-<p align="center">
-<a href="mailto:rafiulhassan007@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/md-rafiul-hassan-007/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/rafiulhassan007">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://twitter.com/RRafiul">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-</p>
-
-<h3 align="center">💻 Building solutions, one commit at a time.</h3>
+</div>
