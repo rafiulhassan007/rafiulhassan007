@@ -2,7 +2,7 @@
 
 # Md. Rafiul Hassan
 
-**Software Engineer · Enterprise Resource Application · SQL & NO-SQL Databases · Mobile Application**
+**Software Engineer · Java & Spring Boot · Android & Kotlin · Odoo ERP**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=620&lines=Java+%26+Spring+Boot+Developer;Android+%26+Kotlin+Developer;Enterprise+Application+Engineer;Exploring+Local+LLMs+%26+RAG)](https://github.com/rafiulhassan007)
 
@@ -65,15 +65,13 @@ I build scalable backend systems, enterprise applications and mobile apps. My co
 
 <div align="center">
 
+<!-- Row 1: profile details with contributions in last year (full width) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/0-profile-details.svg">
-  <img width="49%" alt="Profile details and contributions in last year" src="./profile-summary-card-output/github/0-profile-details.svg">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg">
-  <img width="49%" alt="GitHub stats" src="./profile-summary-card-output/github/3-stats.svg">
+  <img width="100%" alt="Profile details and contributions in last year" src="./profile-summary-card-output/github/0-profile-details.svg">
 </picture>
 
+<!-- Row 2: languages -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/1-repos-per-language.svg">
   <img width="49%" alt="Top languages by repository" src="./profile-summary-card-output/github/1-repos-per-language.svg">
@@ -83,9 +81,14 @@ I build scalable backend systems, enterprise applications and mobile apps. My co
   <img width="49%" alt="Top languages by commit" src="./profile-summary-card-output/github/2-most-commit-language.svg">
 </picture>
 
+<!-- Row 3: stats and commits -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg">
+  <img width="49%" alt="GitHub stats" src="./profile-summary-card-output/github/3-stats.svg">
+</picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/4-productive-time.svg">
-  <img width="98%" alt="Commits by time of day" src="./profile-summary-card-output/github/4-productive-time.svg">
+  <img width="49%" alt="Commits by time of day" src="./profile-summary-card-output/github/4-productive-time.svg">
 </picture>
 
 [![Streak](https://streak-stats.demolab.com?user=rafiulhassan007&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
