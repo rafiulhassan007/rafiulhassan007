@@ -1,22 +1,17 @@
-```markdown
-<!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Rafiul Hassan</h1>
 
-<h3 align="center">
-  Software Engineer | Backend Developer | Mobile Application Developer
-</h3>
+<h3 align="center">Software Engineer | Backend Developer | Android Application Developer</h3>
 
 <p align="center">
-  Building scalable backend systems, enterprise applications,
-  and modern mobile solutions.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Java+%26+Spring+Boot+Developer;Android+%26+Kotlin+Developer;Enterprise+Application+Engineer;Exploring+AI+%26+Modern+Technologies" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://github.com/rafiulhassan007">
-    <img src="https://komarev.com/ghpvc/?username=rafiulhassan007&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=rafiulhassan007&style=for-the-badge&color=blue" />
   </a>
   <a href="https://github.com/rafiulhassan007?tab=followers">
-    <img src="https://img.shields.io/github/followers/rafiulhassan007?label=Followers&style=social" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/followers/rafiulhassan007?style=for-the-badge&color=blue" />
   </a>
 </p>
 
@@ -24,160 +19,107 @@
 
 ## 👨‍💻 About Me
 
-I'm a Software Engineer passionate about designing and developing
-reliable, scalable, and maintainable software solutions.
+I'm a Software Engineer passionate about building scalable backend systems, enterprise applications, and modern mobile solutions.
 
-My primary focus is backend engineering with Java and Spring Boot,
-alongside Mobile application development using Flutter, Kotlin and Java.
+My primary expertise is in **Java, Spring Boot, Android, and Kotlin**, with experience developing enterprise-level ERP and University Management Systems.
 
-I enjoy working across the software development lifecycle, from
-database design and API development to application architecture,
-integration, testing, and deployment.
+I enjoy solving complex engineering problems, optimizing database performance, designing maintainable architectures, and exploring AI-powered software solutions.
 
-I have experience working with enterprise-level applications,
-particularly University Management Systems (UMS), ERP solutions,
-and business process automation.
-
-- 🔭 Currently working on **Java Spring Boot Backend & Mobile Applications**
-- 🌱 Exploring **Flutter, AI Integration, and Modern Software Architecture**
-- 💻 Interested in **Backend Engineering, Distributed Systems & Mobile Development**
-- 🧪 Interested in **Test-Driven Development (TDD) and Software Quality**
-- 🤖 Exploring **Local LLMs, RAG, and AI-powered applications**
-- ⚡ Passionate about solving real-world problems through technology
-- 📍 Based in Bangladesh 🇧🇩
+- 🔭 Currently working on Java Spring Boot Backend & Mobile Applications
+- 🌱 Exploring Flutter, AI Integration, and Modern Software Architecture
+- 💡 Interested in Microservices, Distributed Systems, and Database Optimization
+- 🤖 Exploring Local LLMs, RAG, and AI-powered applications
+- 🧪 Interested in TDD, Clean Code, and Software Quality
+- 📍 Bangladesh 🇧🇩
 
 ---
 
-## 🛠️ Technical Skills
+## 🧰 Technology Stack
 
 ### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,kotlin,python,dart,bash" />
+<img src="https://skillicons.dev/icons?i=java,kotlin,python,dart,bash" />
 </p>
 
 ### Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,hibernate,maven,gradle" />
+<img src="https://skillicons.dev/icons?i=spring,hibernate,maven,docker,redis,rabbitmq" />
 </p>
 
-- Java & Spring Boot
-- Spring Security & JWT Authentication
-- RESTful API Development
-- Microservices Architecture
-- JPA / Hibernate
-- Stored Procedures & Database Integration
-- API Gateway & Service Discovery
-- Redis & RabbitMQ
+Java • Spring Boot • Spring Security • REST APIs • Microservices • JPA/Hibernate • JWT • API Gateway
 
-### Mobile Application Development
+### Mobile Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,flutter" />
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,flutter" />
 </p>
 
-- Android SDK & Android Studio
-- Java & Kotlin
-- MVVM Architecture
-- Retrofit & REST API Integration
-- Room Database
-- Dagger Hilt
-- Kotlin Multiplatform
-- Flutter & Dart (Exploring)
+Android SDK • Kotlin • Java • MVVM • Retrofit • Room • Dagger Hilt • Kotlin Multiplatform • Flutter
 
-### Database Management
+### Database & Storage
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
 </p>
 
-- Microsoft SQL Server
-- PostgreSQL
-- MySQL / MariaDB
-- SQLite
-- Database Design & Optimization
-- Stored Procedures
-- Query Optimization & Indexing
+Microsoft SQL Server • PostgreSQL • MySQL • SQLite • Stored Procedures • Query Optimization
 
-### Enterprise Solutions & ERP
-
-- Odoo 13, 15 & 16
-- Odoo Functional Development
-- Odoo Custom Module Development
-- Enterprise Resource Planning (ERP)
-- Business Process Automation
-
-### Tools & Technologies
+### Enterprise & ERP
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,idea,vscode" />
+<img src="https://skillicons.dev/icons?i=python,odoo" />
 </p>
 
-- Git & GitHub
-- Docker & Docker Compose
-- Linux & Shell Scripting
-- IntelliJ IDEA
-- Android Studio
-- Postman
-- Maven & Gradle
+Odoo 13 / 15 / 16 • ERP Development • Custom Modules • Business Process Automation
 
-### Software Engineering & Testing
+### Tools & Platforms
 
-- Object-Oriented Programming (OOP)
-- SOLID Principles
-- Design Patterns
-- Test-Driven Development (TDD)
-- ISTQB Software Testing Principles
-- Clean Code & Maintainable Architecture
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,idea,vscode" />
+</p>
+
+Git • GitHub • Docker • Linux • Postman • IntelliJ IDEA • Android Studio
 
 ---
 
-## 🚀 Areas of Experience
+## 🚀 Professional Interests
 
-### 🏢 Enterprise Application Development
-
-Developing enterprise-level applications and integrated business
-solutions, including:
-
-- University Management Systems (UMS)
-- Enterprise Resource Planning (ERP)
-- Student Information & Admission Management
-- Academic & Examination Management
-- Employee & HR Management
-- Accounts & Administrative Systems
-- REST API Development and System Integration
-
-### 📱 Android Application Development
-
-Building Android applications with modern development practices,
-including MVVM, REST API integration, local persistence,
-dependency injection, and responsive UI development.
-
-### 🤖 AI & Intelligent Applications
-
-Exploring practical AI integration in software applications:
-
-- Local LLM deployment with Ollama
-- Retrieval-Augmented Generation (RAG)
-- AI-powered admission assistance
-- Document-based question answering
-- Embedding models and vector databases
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">⚙️ Backend Engineering</h3>
+<p align="center">Building secure, scalable, and maintainable enterprise backend systems using Java and Spring Boot.</p>
+</td>
+<td width="50%">
+<h3 align="center">📱 Mobile Engineering</h3>
+<p align="center">Developing modern Android applications with Kotlin, MVVM, REST APIs, and clean architecture.</p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">🏢 Enterprise Solutions</h3>
+<p align="center">Developing ERP, University Management Systems, admission, academic, and HR solutions.</p>
+</td>
+<td width="50%">
+<h3 align="center">🤖 AI Integration</h3>
+<p align="center">Exploring local LLMs, Ollama, RAG, embeddings, and AI-powered applications.</p>
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=rafiulhassan007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafiulhassan007&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rafiulhassan007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafiulhassan007&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="70%"
-    src="https://streak-stats.demolab.com?user=rafiulhassan007&theme=tokyonight&hide_border=true" />
+<img width="70%" src="https://streak-stats.demolab.com?user=rafiulhassan007&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -185,9 +127,7 @@ Exploring practical AI integration in software applications:
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=rafiulhassan007&theme=tokyo-night&hide_border=true"
-    alt="GitHub Contribution Graph" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=rafiulhassan007&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -201,31 +141,21 @@ Exploring practical AI integration in software applications:
 
 ---
 
-## 🤝 Connect With Me
-
-<p align="left">
-  <a href="mailto:rafiulhassan007@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/md-rafiul-hassan-007/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/rafiulhassan007">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/RRafiul">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</p>
-
----
+## 🤝 Let's Connect
 
 <p align="center">
-  <i>
-    "Great software is not just about writing code;
-    it's about solving problems and creating value."
-  </i>
+<a href="mailto:rafiulhassan007@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/md-rafiul-hassan-007/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/rafiulhassan007">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://twitter.com/RRafiul">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
 </p>
 
-<h3 align="center">Thanks for visiting my profile! ⭐</h3>
-```
+<h3 align="center">💻 Building solutions, one commit at a time.</h3>
